@@ -9,6 +9,6 @@
 
 ## What I will able to do after this course ?
 After taking this course, I able to:
-- **Take a raw dataset and process it for a given task.** This means dealing with missing data and outliers, normalizing and transforming features, figuring out which features are the most relevant to the task, and picking out the best combination of features to use.
-- **Picking the correct model architecture to use based on the data**. Many people will always default to using a large neural network for any machine learning task, but many times this is unnecessary and can even hurt the model’s final performance if the dataset is not large enough.
-- **Code a machine learning model and train it on processed data.** Validate the model’s performance on held-out data and understand techniques to improve a model’s performance.
+- Take a raw dataset and process it for a given task. This means dealing with missing data and outliers, normalizing and transforming features, figuring out which features are the most relevant to the task, and picking out the best combination of features to use.
+- Picking the correct model architecture to use based on the data. Many people will always default to using a large neural network for any machine learning task, but many times this is unnecessary and can even hurt the model’s final performance if the dataset is not large enough.
+- Code a machine learning model and train it on processed data. Validate the model’s performance on held-out data and understand techniques to improve a model’s performance.
